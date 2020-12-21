@@ -3,6 +3,6 @@
 
 	echo "Olá Mundo! OLA";
 
-	echo "League"
+	echo "League";
 
 ?>
